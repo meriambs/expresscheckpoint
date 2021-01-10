@@ -1,0 +1,35 @@
+{
+    "header":{
+        "text":"Drink Healthy <br> and Natural coffe",
+        "sub":"coffe and the are the best thjing for your body .",
+        "firstdroite":"/images/baristaa.png"
+       
+    },
+    "about":{
+        "header":"Welcome to our Coffe Shop",
+        "sub":"We home you will like the view , the coffe and that it will be like your second home",
+    "scdgauche":"/images/Flavours-Of-Coffee.jpg",
+    "images":[
+        {"menu":"images/firstcof1.jpeg","titlemenu":"Moka"},
+        {"menu":"images/coffe2.jpg","titlemenu":"Dalgonna Coffee"},
+        {"menu":"images/coffe3.jpeg", "titlemenu":"Irish Coffee"}
+    ]
+    },
+    "service":{
+         "titre1":"Breakfast",
+         "titre2":"Lunch",
+         "titre3":"Tea"
+         
+    },
+   
+    "counter":{
+ "imgcounter":"/images/fontcoffe.jpeg",
+        "imgavis":"/images/sobre.jpg",
+        "clientimg":"/images/person_1.jpg"
+    },
+    "reservation":{
+        "firstdroit":"/images/reservation.jpg",
+        "booktitl":"Book a Table",
+        "reservtitl":"Make your reservation"
+    }
+}

@@ -1,0 +1,11 @@
+{
+        "title":"Kurama",
+        "description":"Guess what? We’ve just opened our coffee shop!We guarantee good coffee & fast Wi-fi & great atmosphere. And it’s all FREE! ",
+       " descriptionn":"Coffee Shop is your go-to neighborhood joint, any time, any day. Join us for specialty coffee to pep you up in the morning, organic smoothies, juices, and food to fuel your day, and craft beer, wine, and cocktails to get your night started!",
+       "hours":[
+               {"day":"Mon-Fri", "time":"6am - 4pm"},
+               {"day":"Saturday","time":"8am-12am"},
+               {"day":"Sunday","time":"Clean Day "}
+       ],
+       "error":"/images/commebackmonday.jpg"
+    }
