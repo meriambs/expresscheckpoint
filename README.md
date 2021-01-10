@@ -28,6 +28,7 @@ $ npm run build
 ```
 
 if you want to see the site here is the link:
-...
+
+```
 $ https://choffe-shop-gy2qxg.turbo360-vertex.com
-...
+```
